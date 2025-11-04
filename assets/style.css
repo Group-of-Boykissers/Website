@@ -2,6 +2,7 @@
 body {
   display: flex;
   justify-content: center;
+/* im skipping line 6 and 7 so no one can make the joke that my code is on the "funny number" */
   align-items: center;
   height: 100vh;
   background-color: #f0f2f5;
