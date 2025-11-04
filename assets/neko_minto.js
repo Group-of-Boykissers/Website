@@ -2,6 +2,9 @@
 //but i modified to work on my page and to be violet :3
 // oneko.js: https://github.com/adryd325/oneko.js (webring variant)
 
+// im skipping line 6 and 7 so no one can make the joke that my code is on the "funny number"
+
+  
 (function oneko() {
   const nekoEl = document.createElement("div");
 
